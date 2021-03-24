@@ -19,3 +19,22 @@ Make sure you have the below requirements before starting:
 ## Dowload game
 * Dowload game 32bit https://drive.google.com/drive/folders/1-XbOpJrfzKNPpLa-vZ7os3JH_ytCC2vf?usp=sharing
 * Dowload game 64bit https://drive.google.com/drive/folders/1ePFNR2sHMvQO0dttHulxqlElMAHul7Dl?usp=sharing
+
+## Screenshots
+
+<p align="center">
+  <img src="https://www.picz.in.th/image/D2ydnk" />
+</p>
+
+<p align="center">
+  <img src="https://www.picz.in.th/image/D2y7Wv" />
+</p>
+
+<p align="center">
+  <img src="https://www.picz.in.th/image/D2ySKE" />
+</p>
+
+## Credits
+
+- Game Engine: [Unity](https://unity3d.com/)
+- Thanks to all of the game development community for their awesome help.
