@@ -24,7 +24,7 @@ Make sure you have the below requirements before starting:
 
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbmc=/original/HipFLL.png" />
+  <img src="https://www.i-pic.info/i/U21k22347.jpg" />
 </p>
 
 ## Credits
