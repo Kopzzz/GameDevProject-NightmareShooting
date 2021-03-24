@@ -24,7 +24,7 @@ Make sure you have the below requirements before starting:
 
 
 <p align="center">
-  <img src="https://www.i-pic.info/i/U21k22347.jpg" />
+  <img src="https://i.ibb.co/TBsRp2D/NM-1.jpg />
 </p>
 
 ## Credits
