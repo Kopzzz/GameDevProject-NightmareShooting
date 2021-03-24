@@ -23,7 +23,7 @@ Make sure you have the below requirements before starting:
 ## Screenshots
 
 <p align="center">
-  <img src="https://sv1.picz.in.th/images/2021/03/24/D2ydnk.jpg" />
+  <img src="https://www.i-pic.info/i/k7sh22348.jpg" />
 </p>
 
 <p align="center">
