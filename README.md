@@ -22,10 +22,10 @@ Make sure you have the below requirements before starting:
 
 ## Screenshots
 
-<p align="center">
-  <img src=https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbmc=/original/HipFLL.png" />
-</p>
 
+<p align="center">
+  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbmc=/original/HipFLL.png" />
+</p>
 
 ## Credits
 
