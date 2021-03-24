@@ -22,9 +22,16 @@ Make sure you have the below requirements before starting:
 
 ## Screenshots
 
-
 <p align="center">
   <img src="https://i.ibb.co/TBsRp2D/NM-1.jpg" />
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/jV8MCSQ/NM-2.jpg" />
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/L8ktnhr/NM-3.jpg" />
 </p>
 
 ## Credits
