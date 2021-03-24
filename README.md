@@ -1,6 +1,6 @@
 # Nightmare Shooting
 
-Nightmare Shooting is a game development using a free game assets from Unity Game Engine.
+Nightmare Shooting is a game development using free game assets from Unity Game Engine.
 
 ## Getting Started
 Follow the below instructions to get started with Nightmare shooting source code:
