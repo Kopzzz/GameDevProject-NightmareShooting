@@ -23,16 +23,9 @@ Make sure you have the below requirements before starting:
 ## Screenshots
 
 <p align="center">
-  <img src="https://www.i-pic.info/i/k7sh22348.jpg" />
+  <img src=https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbmc=/original/HipFLL.png" />
 </p>
 
-<p align="center">
-  <img src=https://sv1.picz.in.th/images/2021/03/24/D2y7Wv.jpg" />
-</p>
-
-<p align="center">
-  <img src="https://sv1.picz.in.th/images/2021/03/24/D2ySKE.jpg" />
-</p>
 
 ## Credits
 
