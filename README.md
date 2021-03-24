@@ -23,15 +23,15 @@ Make sure you have the below requirements before starting:
 ## Screenshots
 
 <p align="center">
-  <img src="https://www.picz.in.th/image/D2ydnk" />
+  <img src="https://sv1.picz.in.th/images/2021/03/24/D2ydnk.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://www.picz.in.th/image/D2y7Wv" />
+  <img src=https://sv1.picz.in.th/images/2021/03/24/D2y7Wv.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://www.picz.in.th/image/D2ySKE" />
+  <img src="https://sv1.picz.in.th/images/2021/03/24/D2ySKE.jpg" />
 </p>
 
 ## Credits
