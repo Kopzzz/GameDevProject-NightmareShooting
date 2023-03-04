@@ -16,9 +16,9 @@ Make sure you have the below requirements before starting:
 - [Unity Game Engine](https://unity3d.com)
 - Basic Knowledge about Unity and C#
 
-## Dowload game
-* Dowload game 32bit https://drive.google.com/drive/folders/1-XbOpJrfzKNPpLa-vZ7os3JH_ytCC2vf?usp=sharing
-* Dowload game 64bit https://drive.google.com/drive/folders/1ePFNR2sHMvQO0dttHulxqlElMAHul7Dl?usp=sharing
+## Download game
+* Download game 32bit https://drive.google.com/drive/folders/1-XbOpJrfzKNPpLa-vZ7os3JH_ytCC2vf?usp=sharing
+* Download game 64bit https://drive.google.com/drive/folders/1ePFNR2sHMvQO0dttHulxqlElMAHul7Dl?usp=sharing
 
 ## Screenshots
 
